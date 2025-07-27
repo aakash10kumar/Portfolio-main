@@ -10,7 +10,7 @@ function Education() {
     },
     {
       degree: "B.Sc - MJPRU, Bareilly",
-      duration: "2020 - 2023",
+      duration: "2018 - 2021",
       grade: "62%",
     },
     {
