@@ -5,12 +5,9 @@ function Hero() {
 
   return (
     <>
-      {/* Hero Section */}
+ 
       <div >
-        {/* Optional Animated Background Gradient */}
-
-
-        {/* Modal for Zoomed Image */}
+      
         {showModal && (
           <div
             className="fixed inset-0 bg-black  bg-opacity-80 flex items-center justify-center z-50"
